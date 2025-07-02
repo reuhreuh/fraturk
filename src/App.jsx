@@ -31,11 +31,11 @@ function App() {
       ? selected[toLang][formKey]
       : selected[toLang]['present'][formKey];
 
-    // Étape 5 : deux mauvaises réponses
+    // Étape 5 : quatre mauvaises réponses
     const otherVerbs = verbs.filter(v => v !== selected);
     const wrongAnswers = [];
 
-    while (wrongAnswers.length < 2) {
+    while (wrongAnswers.length < 4) {
       const wrongVerb = getRandomElement(otherVerbs);
       const wrongAnswer = formKey === 'infinitive'
         ? wrongVerb[toLang][formKey]
