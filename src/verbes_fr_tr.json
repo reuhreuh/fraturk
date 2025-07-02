@@ -1,0 +1,180 @@
+{
+  "verbs": [
+    {
+      "fr": {
+        "infinitive": "manger",
+        "present": {
+          "firstPerson": "je mange",
+          "negativeFirstPerson": "je ne mange pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yemek",
+        "present": {
+          "firstPerson": "yiyorum",
+          "negativeFirstPerson": "yemiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "aimer",
+        "present": {
+          "firstPerson": "j'aime",
+          "negativeFirstPerson": "je n'aime pas"
+        }
+      },
+      "tr": {
+        "infinitive": "sevmek",
+        "present": {
+          "firstPerson": "seviyorum",
+          "negativeFirstPerson": "sevmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "aller",
+        "present": {
+          "firstPerson": "je vais",
+          "negativeFirstPerson": "je ne vais pas"
+        }
+      },
+      "tr": {
+        "infinitive": "gitmek",
+        "present": {
+          "firstPerson": "gidiyorum",
+          "negativeFirstPerson": "gitmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "venir",
+        "present": {
+          "firstPerson": "je viens",
+          "negativeFirstPerson": "je ne viens pas"
+        }
+      },
+      "tr": {
+        "infinitive": "gelmek",
+        "present": {
+          "firstPerson": "geliyorum",
+          "negativeFirstPerson": "gelmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "boire",
+        "present": {
+          "firstPerson": "je bois",
+          "negativeFirstPerson": "je ne bois pas"
+        }
+      },
+      "tr": {
+        "infinitive": "içmek",
+        "present": {
+          "firstPerson": "içiyorum",
+          "negativeFirstPerson": "içmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "vouloir",
+        "present": {
+          "firstPerson": "je veux",
+          "negativeFirstPerson": "je ne veux pas"
+        }
+      },
+      "tr": {
+        "infinitive": "istemek",
+        "present": {
+          "firstPerson": "istiyorum",
+          "negativeFirstPerson": "istemiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "dormir",
+        "present": {
+          "firstPerson": "je dors",
+          "negativeFirstPerson": "je ne dors pas"
+        }
+      },
+      "tr": {
+        "infinitive": "uyumak",
+        "present": {
+          "firstPerson": "uyuyorum",
+          "negativeFirstPerson": "uyumuyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "connaître",
+        "present": {
+          "firstPerson": "je connais",
+          "negativeFirstPerson": "je ne connais pas"
+        }
+      },
+      "tr": {
+        "infinitive": "tanımak",
+        "present": {
+          "firstPerson": "tanıyorum",
+          "negativeFirstPerson": "tanımıyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "savoir",
+        "present": {
+          "firstPerson": "je sais",
+          "negativeFirstPerson": "je ne sais pas"
+        }
+      },
+      "tr": {
+        "infinitive": "bilmek",
+        "present": {
+          "firstPerson": "biliyorum",
+          "negativeFirstPerson": "bilmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "apprendre",
+        "present": {
+          "firstPerson": "j'apprends",
+          "negativeFirstPerson": "je n'apprends pas"
+        }
+      },
+      "tr": {
+        "infinitive": "öğrenmek",
+        "present": {
+          "firstPerson": "öğreniyorum",
+          "negativeFirstPerson": "öğrenmiyorum"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "lire",
+        "present": {
+          "firstPerson": "je lis",
+          "negativeFirstPerson": "je ne lis pas"
+        }
+      },
+      "tr": {
+        "infinitive": "okumak",
+        "present": {
+          "firstPerson": "okuyorum",
+          "negativeFirstPerson": "okumuyorum"
+        }
+      }
+    }
+  ]
+}
