@@ -1,7 +1,7 @@
 {
-  "name": "verbs",
+  "name": "fraturk",
   "version": "0.0.1",
-  "homepage": "https//reuhreuh.github.io/verbs/",
+  "homepage": "https//reuhreuh.github.io/fraturk/",
   "private": true,
   "scripts": {
     "dev": "vite",

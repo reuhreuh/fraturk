@@ -2,33 +2,145 @@
   "verbs": [
     {
       "fr": {
-        "infinitive": "manger",
+        "infinitive": "être",
         "present": {
-          "firstPerson": "je mange",
-          "negativeFirstPerson": "je ne mange pas"
+          "firstPerson": "je suis",
+          "negativeFirstPerson": "je ne suis pas",
+          "secondPerson": "tu es",
+          "negativeSecondPerson": "tu n'es pas",
+          "thirdPerson": "il/elle est",
+          "negativeThirdPerson": "il/elle n'est pas",
+          "firstPersonPlural": "nous sommes",
+          "negativeFirstPersonPlural": "nous ne sommes pas",
+          "secondPersonPlural": "vous êtes",
+          "negativeSecondPersonPlural": "vous n'êtes pas",
+          "thirdPersonPlural": "ils/elles sont",
+          "negativeThirdPersonPlural": "ils/elles ne sont pas"
         }
       },
       "tr": {
-        "infinitive": "yemek",
+        "infinitive": "olmak",
         "present": {
-          "firstPerson": "yiyorum",
-          "negativeFirstPerson": "yemiyorum"
+          "firstPerson": "oluyorum",
+          "negativeFirstPerson": "olmuyorum",
+          "secondPerson": "oluyorsun",
+          "negativeSecondPerson": "olmuyorsun",
+          "thirdPerson": "oluyor",
+          "negativeThirdPerson": "olmuyor",
+          "firstPersonPlural": "oluyoruz",
+          "negativeFirstPersonPlural": "olmuyoruz",
+          "secondPersonPlural": "oluyorsunuz",
+          "negativeSecondPersonPlural": "olmuyorsunuz",
+          "thirdPersonPlural": "oluyorlar",
+          "negativeThirdPersonPlural": "olmuyorlar"
         }
       }
     },
     {
       "fr": {
-        "infinitive": "aimer",
+        "infinitive": "avoir",
         "present": {
-          "firstPerson": "j'aime",
-          "negativeFirstPerson": "je n'aime pas"
+          "firstPerson": "j'ai",
+          "negativeFirstPerson": "je n'ai pas",
+          "secondPerson": "tu as",
+          "negativeSecondPerson": "tu n'as pas",
+          "thirdPerson": "il/elle a",
+          "negativeThirdPerson": "il/elle n'a pas",
+          "firstPersonPlural": "nous avons",
+          "negativeFirstPersonPlural": "nous n'avons pas",
+          "secondPersonPlural": "vous avez",
+          "negativeSecondPersonPlural": "vous n'avez pas",
+          "thirdPersonPlural": "ils/elles ont",
+          "negativeThirdPersonPlural": "ils/elles n'ont pas"
         }
       },
       "tr": {
-        "infinitive": "sevmek",
+        "infinitive": "sahip olmak",
         "present": {
-          "firstPerson": "seviyorum",
-          "negativeFirstPerson": "sevmiyorum"
+          "firstPerson": "sahibim",
+          "negativeFirstPerson": "sahip değilim",
+          "secondPerson": "sahipsin",
+          "negativeSecondPerson": "sahip değilsin",
+          "thirdPerson": "sahip",
+          "negativeThirdPerson": "sahip değil",
+          "firstPersonPlural": "sahibiz",
+          "negativeFirstPersonPlural": "sahip değiliz",
+          "secondPersonPlural": "sahipsiniz",
+          "negativeSecondPersonPlural": "sahip değilsiniz",
+          "thirdPersonPlural": "sahipler",
+          "negativeThirdPersonPlural": "sahip değiller"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "faire",
+        "present": {
+          "firstPerson": "je fais",
+          "negativeFirstPerson": "je ne fais pas",
+          "secondPerson": "tu fais",
+          "negativeSecondPerson": "tu ne fais pas",
+          "thirdPerson": "il/elle fait",
+          "negativeThirdPerson": "il/elle ne fait pas",
+          "firstPersonPlural": "nous faisons",
+          "negativeFirstPersonPlural": "nous ne faisons pas",
+          "secondPersonPlural": "vous faites",
+          "negativeSecondPersonPlural": "vous ne faites pas",
+          "thirdPersonPlural": "ils/elles font",
+          "negativeThirdPersonPlural": "ils/elles ne font pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yapmak",
+        "present": {
+          "firstPerson": "yapıyorum",
+          "negativeFirstPerson": "yapmıyorum",
+          "secondPerson": "yapıyorsun",
+          "negativeSecondPerson": "yapmıyorsun",
+          "thirdPerson": "yapıyor",
+          "negativeThirdPerson": "yapmıyor",
+          "firstPersonPlural": "yapıyoruz",
+          "negativeFirstPersonPlural": "yapmıyoruz",
+          "secondPersonPlural": "yapıyorsunuz",
+          "negativeSecondPersonPlural": "yapmıyorsunuz",
+          "thirdPersonPlural": "yapıyorlar",
+          "negativeThirdPersonPlural": "yapmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "dire",
+        "present": {
+          "firstPerson": "je dis",
+          "negativeFirstPerson": "je ne dis pas",
+          "secondPerson": "tu dis",
+          "negativeSecondPerson": "tu ne dis pas",
+          "thirdPerson": "il/elle dit",
+          "negativeThirdPerson": "il/elle ne dit pas",
+          "firstPersonPlural": "nous disons",
+          "negativeFirstPersonPlural": "nous ne disons pas",
+          "secondPersonPlural": "vous dites",
+          "negativeSecondPersonPlural": "vous ne dites pas",
+          "thirdPersonPlural": "ils/elles disent",
+          "negativeThirdPersonPlural": "ils/elles ne disent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "demek",
+        "present": {
+          "firstPerson": "diyorum",
+          "negativeFirstPerson": "demiyorum",
+          "secondPerson": "diyorsun",
+          "negativeSecondPerson": "demiyorsun",
+          "thirdPerson": "diyor",
+          "negativeThirdPerson": "demiyor",
+          "firstPersonPlural": "diyoruz",
+          "negativeFirstPersonPlural": "demiyoruz",
+          "secondPersonPlural": "diyorsunuz",
+          "negativeSecondPersonPlural": "demiyorsunuz",
+          "thirdPersonPlural": "diyorlar",
+          "negativeThirdPersonPlural": "demiyorlar"
         }
       }
     },
@@ -37,94 +149,70 @@
         "infinitive": "aller",
         "present": {
           "firstPerson": "je vais",
-          "negativeFirstPerson": "je ne vais pas"
+          "negativeFirstPerson": "je ne vais pas",
+          "secondPerson": "tu vas",
+          "negativeSecondPerson": "tu ne vas pas",
+          "thirdPerson": "il/elle va",
+          "negativeThirdPerson": "il/elle ne va pas",
+          "firstPersonPlural": "nous allons",
+          "negativeFirstPersonPlural": "nous n'allons pas",
+          "secondPersonPlural": "vous allez",
+          "negativeSecondPersonPlural": "vous n'allez pas",
+          "thirdPersonPlural": "ils/elles vont",
+          "negativeThirdPersonPlural": "ils/elles ne vont pas"
         }
       },
       "tr": {
         "infinitive": "gitmek",
         "present": {
           "firstPerson": "gidiyorum",
-          "negativeFirstPerson": "gitmiyorum"
+          "negativeFirstPerson": "gitmiyorum",
+          "secondPerson": "gidiyorsun",
+          "negativeSecondPerson": "gitmiyorsun",
+          "thirdPerson": "gidiyor",
+          "negativeThirdPerson": "gitmiyor",
+          "firstPersonPlural": "gidiyoruz",
+          "negativeFirstPersonPlural": "gitmiyoruz",
+          "secondPersonPlural": "gidiyorsunuz",
+          "negativeSecondPersonPlural": "gitmiyorsunuz",
+          "thirdPersonPlural": "gidiyorlar",
+          "negativeThirdPersonPlural": "gitmiyorlar"
         }
       }
     },
     {
       "fr": {
-        "infinitive": "venir",
+        "infinitive": "voir",
         "present": {
-          "firstPerson": "je viens",
-          "negativeFirstPerson": "je ne viens pas"
+          "firstPerson": "je vois",
+          "negativeFirstPerson": "je ne vois pas",
+          "secondPerson": "tu vois",
+          "negativeSecondPerson": "tu ne vois pas",
+          "thirdPerson": "il/elle voit",
+          "negativeThirdPerson": "il/elle ne voit pas",
+          "firstPersonPlural": "nous voyons",
+          "negativeFirstPersonPlural": "nous ne voyons pas",
+          "secondPersonPlural": "vous voyez",
+          "negativeSecondPersonPlural": "vous ne voyez pas",
+          "thirdPersonPlural": "ils/elles voient",
+          "negativeThirdPersonPlural": "ils/elles ne voient pas"
         }
       },
       "tr": {
-        "infinitive": "gelmek",
+        "infinitive": "görmek",
         "present": {
-          "firstPerson": "geliyorum",
-          "negativeFirstPerson": "gelmiyorum"
-        }
-      }
-    },
-    {
-      "fr": {
-        "infinitive": "boire",
-        "present": {
-          "firstPerson": "je bois",
-          "negativeFirstPerson": "je ne bois pas"
-        }
-      },
-      "tr": {
-        "infinitive": "içmek",
-        "present": {
-          "firstPerson": "içiyorum",
-          "negativeFirstPerson": "içmiyorum"
-        }
-      }
-    },
-    {
-      "fr": {
-        "infinitive": "vouloir",
-        "present": {
-          "firstPerson": "je veux",
-          "negativeFirstPerson": "je ne veux pas"
-        }
-      },
-      "tr": {
-        "infinitive": "istemek",
-        "present": {
-          "firstPerson": "istiyorum",
-          "negativeFirstPerson": "istemiyorum"
-        }
-      }
-    },
-    {
-      "fr": {
-        "infinitive": "dormir",
-        "present": {
-          "firstPerson": "je dors",
-          "negativeFirstPerson": "je ne dors pas"
-        }
-      },
-      "tr": {
-        "infinitive": "uyumak",
-        "present": {
-          "firstPerson": "uyuyorum",
-          "negativeFirstPerson": "uyumuyorum"
-        }
-      }
-    },
-    {
-      "fr": {
-        "infinitive": "connaître",
-        "present": {
-          "firstPerson": "je connais",
-          "negativeFirstPerson": "je ne connais pas"
-        }
-      },
-      "tr": {
-        "infinitive": "tanımak",
-        "present": {
-          "firstPerson": "tanıyorum",
-          "negativeFirstPerson": "tanımıyorum"
+          "firstPerson": "görüyorum",
+          "negativeFirstPerson": "görmüyorum",
+          "secondPerson": "görüyorsun",
+          "negativeSecondPerson": "görmüyorsun",
+          "thirdPerson": "görüyor",
+          "negativeThirdPerson": "görmüyor",
+          "firstPersonPlural": "görüyoruz",
+          "negativeFirstPersonPlural": "görmüyoruz",
+          "secondPersonPlural": "görüyorsunuz",
+          "negativeSecondPersonPlural": "görmüyorsunuz",
+          "thirdPersonPlural": "görüyorlar",
+          "negativeThirdPersonPlural": "görmüyorlar"
         }
       }
     },
@@ -133,30 +221,754 @@
         "infinitive": "savoir",
         "present": {
           "firstPerson": "je sais",
-          "negativeFirstPerson": "je ne sais pas"
+          "negativeFirstPerson": "je ne sais pas",
+          "secondPerson": "tu sais",
+          "negativeSecondPerson": "tu ne sais pas",
+          "thirdPerson": "il/elle sait",
+          "negativeThirdPerson": "il/elle ne sait pas",
+          "firstPersonPlural": "nous savons",
+          "negativeFirstPersonPlural": "nous ne savons pas",
+          "secondPersonPlural": "vous savez",
+          "negativeSecondPersonPlural": "vous ne savez pas",
+          "thirdPersonPlural": "ils/elles savent",
+          "negativeThirdPersonPlural": "ils/elles ne savent pas"
         }
       },
       "tr": {
         "infinitive": "bilmek",
         "present": {
           "firstPerson": "biliyorum",
-          "negativeFirstPerson": "bilmiyorum"
+          "negativeFirstPerson": "bilmiyorum",
+          "secondPerson": "biliyorsun",
+          "negativeSecondPerson": "bilmiyorsun",
+          "thirdPerson": "biliyor",
+          "negativeThirdPerson": "bilmiyor",
+          "firstPersonPlural": "biliyoruz",
+          "negativeFirstPersonPlural": "bilmiyoruz",
+          "secondPersonPlural": "biliyorsunuz",
+          "negativeSecondPersonPlural": "bilmiyorsunuz",
+          "thirdPersonPlural": "biliyorlar",
+          "negativeThirdPersonPlural": "bilmiyorlar"
         }
       }
     },
     {
       "fr": {
-        "infinitive": "apprendre",
+        "infinitive": "vouloir",
         "present": {
-          "firstPerson": "j'apprends",
-          "negativeFirstPerson": "je n'apprends pas"
+          "firstPerson": "je veux",
+          "negativeFirstPerson": "je ne veux pas",
+          "secondPerson": "tu veux",
+          "negativeSecondPerson": "tu ne veux pas",
+          "thirdPerson": "il/elle veut",
+          "negativeThirdPerson": "il/elle ne veut pas",
+          "firstPersonPlural": "nous voulons",
+          "negativeFirstPersonPlural": "nous ne voulons pas",
+          "secondPersonPlural": "vous voulez",
+          "negativeSecondPersonPlural": "vous ne voulez pas",
+          "thirdPersonPlural": "ils/elles veulent",
+          "negativeThirdPersonPlural": "ils/elles ne veulent pas"
         }
       },
       "tr": {
-        "infinitive": "öğrenmek",
+        "infinitive": "istemek",
         "present": {
-          "firstPerson": "öğreniyorum",
-          "negativeFirstPerson": "öğrenmiyorum"
+          "firstPerson": "istiyorum",
+          "negativeFirstPerson": "istemiyorum",
+          "secondPerson": "istiyorsun",
+          "negativeSecondPerson": "istemiyorsun",
+          "thirdPerson": "istiyor",
+          "negativeThirdPerson": "istemiyor",
+          "firstPersonPlural": "istiyoruz",
+          "negativeFirstPersonPlural": "istemiyoruz",
+          "secondPersonPlural": "istiyorsunuz",
+          "negativeSecondPersonPlural": "istemiyorsunuz",
+          "thirdPersonPlural": "istiyorlar",
+          "negativeThirdPersonPlural": "istemiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "venir",
+        "present": {
+          "firstPerson": "je viens",
+          "negativeFirstPerson": "je ne viens pas",
+          "secondPerson": "tu viens",
+          "negativeSecondPerson": "tu ne viens pas",
+          "thirdPerson": "il/elle vient",
+          "negativeThirdPerson": "il/elle ne vient pas",
+          "firstPersonPlural": "nous venons",
+          "negativeFirstPersonPlural": "nous ne venons pas",
+          "secondPersonPlural": "vous venez",
+          "negativeSecondPersonPlural": "vous ne venez pas",
+          "thirdPersonPlural": "ils/elles viennent",
+          "negativeThirdPersonPlural": "ils/elles ne viennent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "gelmek",
+        "present": {
+          "firstPerson": "geliyorum",
+          "negativeFirstPerson": "gelmiyorum",
+          "secondPerson": "geliyorsun",
+          "negativeSecondPerson": "gelmiyorsun",
+          "thirdPerson": "geliyor",
+          "negativeThirdPerson": "gelmiyor",
+          "firstPersonPlural": "geliyoruz",
+          "negativeFirstPersonPlural": "gelmiyoruz",
+          "secondPersonPlural": "geliyorsunuz",
+          "negativeSecondPersonPlural": "gelmiyorsunuz",
+          "thirdPersonPlural": "geliyorlar",
+          "negativeThirdPersonPlural": "gelmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "prendre",
+        "present": {
+          "firstPerson": "je prends",
+          "negativeFirstPerson": "je ne prends pas",
+          "secondPerson": "tu prends",
+          "negativeSecondPerson": "tu ne prends pas",
+          "thirdPerson": "il/elle prend",
+          "negativeThirdPerson": "il/elle ne prend pas",
+          "firstPersonPlural": "nous prenons",
+          "negativeFirstPersonPlural": "nous ne prenons pas",
+          "secondPersonPlural": "vous prenez",
+          "negativeSecondPersonPlural": "vous ne prenez pas",
+          "thirdPersonPlural": "ils/elles prennent",
+          "negativeThirdPersonPlural": "ils/elles ne prennent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "almak",
+        "present": {
+          "firstPerson": "alıyorum",
+          "negativeFirstPerson": "almıyorum",
+          "secondPerson": "alıyorsun",
+          "negativeSecondPerson": "almıyorsun",
+          "thirdPerson": "alıyor",
+          "negativeThirdPerson": "almıyor",
+          "firstPersonPlural": "alıyoruz",
+          "negativeFirstPersonPlural": "almıyoruz",
+          "secondPersonPlural": "alıyorsunuz",
+          "negativeSecondPersonPlural": "almıyorsunuz",
+          "thirdPersonPlural": "alıyorlar",
+          "negativeThirdPersonPlural": "almıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "parler",
+        "present": {
+          "firstPerson": "je parle",
+          "negativeFirstPerson": "je ne parle pas",
+          "secondPerson": "tu parles",
+          "negativeSecondPerson": "tu ne parles pas",
+          "thirdPerson": "il/elle parle",
+          "negativeThirdPerson": "il/elle ne parle pas",
+          "firstPersonPlural": "nous parlons",
+          "negativeFirstPersonPlural": "nous ne parlons pas",
+          "secondPersonPlural": "vous parlez",
+          "negativeSecondPersonPlural": "vous ne parlez pas",
+          "thirdPersonPlural": "ils/elles parlent",
+          "negativeThirdPersonPlural": "ils/elles ne parlent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "konuşmak",
+        "present": {
+          "firstPerson": "konuşuyorum",
+          "negativeFirstPerson": "konuşmuyorum",
+          "secondPerson": "konuşuyorsun",
+          "negativeSecondPerson": "konuşmuyorsun",
+          "thirdPerson": "konuşuyor",
+          "negativeThirdPerson": "konuşmuyor",
+          "firstPersonPlural": "konuşuyoruz",
+          "negativeFirstPersonPlural": "konuşmuyoruz",
+          "secondPersonPlural": "konuşuyorsunuz",
+          "negativeSecondPersonPlural": "konuşmuyorsunuz",
+          "thirdPersonPlural": "konuşuyorlar",
+          "negativeThirdPersonPlural": "konuşmuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "mettre",
+        "present": {
+          "firstPerson": "je mets",
+          "negativeFirstPerson": "je ne mets pas",
+          "secondPerson": "tu mets",
+          "negativeSecondPerson": "tu ne mets pas",
+          "thirdPerson": "il/elle met",
+          "negativeThirdPerson": "il/elle ne met pas",
+          "firstPersonPlural": "nous mettons",
+          "negativeFirstPersonPlural": "nous ne mettons pas",
+          "secondPersonPlural": "vous mettez",
+          "negativeSecondPersonPlural": "vous ne mettez pas",
+          "thirdPersonPlural": "ils/elles mettent",
+          "negativeThirdPersonPlural": "ils/elles ne mettent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "koymak",
+        "present": {
+          "firstPerson": "koyuyorum",
+          "negativeFirstPerson": "koymuyorum",
+          "secondPerson": "koyuyorsun",
+          "negativeSecondPerson": "koymuyorsun",
+          "thirdPerson": "koyuyor",
+          "negativeThirdPerson": "koymuyor",
+          "firstPersonPlural": "koyuyoruz",
+          "negativeFirstPersonPlural": "koymuyoruz",
+          "secondPersonPlural": "koyuyorsunuz",
+          "negativeSecondPersonPlural": "koymuyorsunuz",
+          "thirdPersonPlural": "koyuyorlar",
+          "negativeThirdPersonPlural": "koymuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "aimer",
+        "present": {
+          "firstPerson": "j'aime",
+          "negativeFirstPerson": "je n'aime pas",
+          "secondPerson": "tu aimes",
+          "negativeSecondPerson": "tu n'aimes pas",
+          "thirdPerson": "il/elle aime",
+          "negativeThirdPerson": "il/elle n'aime pas",
+          "firstPersonPlural": "nous aimons",
+          "negativeFirstPersonPlural": "nous n'aimons pas",
+          "secondPersonPlural": "vous aimez",
+          "negativeSecondPersonPlural": "vous n'aimez pas",
+          "thirdPersonPlural": "ils/elles aiment",
+          "negativeThirdPersonPlural": "ils/elles n'aiment pas"
+        }
+      },
+      "tr": {
+        "infinitive": "sevmek",
+        "present": {
+          "firstPerson": "seviyorum",
+          "negativeFirstPerson": "sevmiyorum",
+          "secondPerson": "seviyorsun",
+          "negativeSecondPerson": "sevmiyorsun",
+          "thirdPerson": "seviyor",
+          "negativeThirdPerson": "sevmiyor",
+          "firstPersonPlural": "seviyoruz",
+          "negativeFirstPersonPlural": "sevmiyoruz",
+          "secondPersonPlural": "seviyorsunuz",
+          "negativeSecondPersonPlural": "sevmiyorsunuz",
+          "thirdPersonPlural": "seviyorlar",
+          "negativeThirdPersonPlural": "sevmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "passer",
+        "present": {
+          "firstPerson": "je passe",
+          "negativeFirstPerson": "je ne passe pas",
+          "secondPerson": "tu passes",
+          "negativeSecondPerson": "tu ne passes pas",
+          "thirdPerson": "il/elle passe",
+          "negativeThirdPerson": "il/elle ne passe pas",
+          "firstPersonPlural": "nous passons",
+          "negativeFirstPersonPlural": "nous ne passons pas",
+          "secondPersonPlural": "vous passez",
+          "negativeSecondPersonPlural": "vous ne passez pas",
+          "thirdPersonPlural": "ils/elles passent",
+          "negativeThirdPersonPlural": "ils/elles ne passent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "geçmek",
+        "present": {
+          "firstPerson": "geçiyorum",
+          "negativeFirstPerson": "geçmiyorum",
+          "secondPerson": "geçiyorsun",
+          "negativeSecondPerson": "geçmiyorsun",
+          "thirdPerson": "geçiyor",
+          "negativeThirdPerson": "geçmiyor",
+          "firstPersonPlural": "geçiyoruz",
+          "negativeFirstPersonPlural": "geçmiyoruz",
+          "secondPersonPlural": "geçiyorsunuz",
+          "negativeSecondPersonPlural": "geçmiyorsunuz",
+          "thirdPersonPlural": "geçiyorlar",
+          "negativeThirdPersonPlural": "geçmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "penser",
+        "present": {
+          "firstPerson": "je pense",
+          "negativeFirstPerson": "je ne pense pas",
+          "secondPerson": "tu penses",
+          "negativeSecondPerson": "tu ne penses pas",
+          "thirdPerson": "il/elle pense",
+          "negativeThirdPerson": "il/elle ne pense pas",
+          "firstPersonPlural": "nous pensons",
+          "negativeFirstPersonPlural": "nous ne pensons pas",
+          "secondPersonPlural": "vous pensez",
+          "negativeSecondPersonPlural": "vous ne pensez pas",
+          "thirdPersonPlural": "ils/elles pensent",
+          "negativeThirdPersonPlural": "ils/elles ne pensent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "düşünmek",
+        "present": {
+          "firstPerson": "düşünüyorum",
+          "negativeFirstPerson": "düşünmüyorum",
+          "secondPerson": "düşünüyorsun",
+          "negativeSecondPerson": "düşünmüyorsun",
+          "thirdPerson": "düşünüyor",
+          "negativeThirdPerson": "düşünmüyor",
+          "firstPersonPlural": "düşünüyoruz",
+          "negativeFirstPersonPlural": "düşünmüyoruz",
+          "secondPersonPlural": "düşünüyorsunuz",
+          "negativeSecondPersonPlural": "düşünmüyorsunuz",
+          "thirdPersonPlural": "düşünüyorlar",
+          "negativeThirdPersonPlural": "düşünmüyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "connaître",
+        "present": {
+          "firstPerson": "je connais",
+          "negativeFirstPerson": "je ne connais pas",
+          "secondPerson": "tu connais",
+          "negativeSecondPerson": "tu ne connais pas",
+          "thirdPerson": "il/elle connaît",
+          "negativeThirdPerson": "il/elle ne connaît pas",
+          "firstPersonPlural": "nous connaissons",
+          "negativeFirstPersonPlural": "nous ne connaissons pas",
+          "secondPersonPlural": "vous connaissez",
+          "negativeSecondPersonPlural": "vous ne connaissez pas",
+          "thirdPersonPlural": "ils/elles connaissent",
+          "negativeThirdPersonPlural": "ils/elles ne connaissent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "tanımak",
+        "present": {
+          "firstPerson": "tanıyorum",
+          "negativeFirstPerson": "tanımıyorum",
+          "secondPerson": "tanıyorsun",
+          "negativeSecondPerson": "tanımıyorsun",
+          "thirdPerson": "tanıyor",
+          "negativeThirdPerson": "tanımıyor",
+          "firstPersonPlural": "tanıyoruz",
+          "negativeFirstPersonPlural": "tanımıyoruz",
+          "secondPersonPlural": "tanıyorsunuz",
+          "negativeSecondPersonPlural": "tanımıyorsunuz",
+          "thirdPersonPlural": "tanıyorlar",
+          "negativeThirdPersonPlural": "tanımıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "croire",
+        "present": {
+          "firstPerson": "je crois",
+          "negativeFirstPerson": "je ne crois pas",
+          "secondPerson": "tu crois",
+          "negativeSecondPerson": "tu ne crois pas",
+          "thirdPerson": "il/elle croit",
+          "negativeThirdPerson": "il/elle ne croit pas",
+          "firstPersonPlural": "nous croyons",
+          "negativeFirstPersonPlural": "nous ne croyons pas",
+          "secondPersonPlural": "vous croyez",
+          "negativeSecondPersonPlural": "vous ne croyez pas",
+          "thirdPersonPlural": "ils/elles croient",
+          "negativeThirdPersonPlural": "ils/elles ne croient pas"
+        }
+      },
+      "tr": {
+        "infinitive": "inanmak",
+        "present": {
+          "firstPerson": "inanıyorum",
+          "negativeFirstPerson": "inanmıyorum",
+          "secondPerson": "inanıyorsun",
+          "negativeSecondPerson": "inanmıyorsun",
+          "thirdPerson": "inanıyor",
+          "negativeThirdPerson": "inanmıyor",
+          "firstPersonPlural": "inanıyoruz",
+          "negativeFirstPersonPlural": "inanmıyoruz",
+          "secondPersonPlural": "inanıyorsunuz",
+          "negativeSecondPersonPlural": "inanmıyorsunuz",
+          "thirdPersonPlural": "inanıyorlar",
+          "negativeThirdPersonPlural": "inanmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "demander",
+        "present": {
+          "firstPerson": "je demande",
+          "negativeFirstPerson": "je ne demande pas",
+          "secondPerson": "tu demandes",
+          "negativeSecondPerson": "tu ne demandes pas",
+          "thirdPerson": "il/elle demande",
+          "negativeThirdPerson": "il/elle ne demande pas",
+          "firstPersonPlural": "nous demandons",
+          "negativeFirstPersonPlural": "nous ne demandons pas",
+          "secondPersonPlural": "vous demandez",
+          "negativeSecondPersonPlural": "vous ne demandez pas",
+          "thirdPersonPlural": "ils/elles demandent",
+          "negativeThirdPersonPlural": "ils/elles ne demandent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "sormak",
+        "present": {
+          "firstPerson": "soruyorum",
+          "negativeFirstPerson": "sormuyorum",
+          "secondPerson": "soruyorsun",
+          "negativeSecondPerson": "sormuyorsun",
+          "thirdPerson": "soruyor",
+          "negativeThirdPerson": "sormuyor",
+          "firstPersonPlural": "soruyoruz",
+          "negativeFirstPersonPlural": "sormuyoruz",
+          "secondPersonPlural": "soruyorsunuz",
+          "negativeSecondPersonPlural": "sormuyorsunuz",
+          "thirdPersonPlural": "soruyorlar",
+          "negativeThirdPersonPlural": "sormuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "trouver",
+        "present": {
+          "firstPerson": "je trouve",
+          "negativeFirstPerson": "je ne trouve pas",
+          "secondPerson": "tu trouves",
+          "negativeSecondPerson": "tu ne trouves pas",
+          "thirdPerson": "il/elle trouve",
+          "negativeThirdPerson": "il/elle ne trouve pas",
+          "firstPersonPlural": "nous trouvons",
+          "negativeFirstPersonPlural": "nous ne trouvons pas",
+          "secondPersonPlural": "vous trouvez",
+          "negativeSecondPersonPlural": "vous ne trouvez pas",
+          "thirdPersonPlural": "ils/elles trouvent",
+          "negativeThirdPersonPlural": "ils/elles ne trouvent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "bulmak",
+        "present": {
+          "firstPerson": "buluyorum",
+          "negativeFirstPerson": "bulmuyorum",
+          "secondPerson": "buluyorsun",
+          "negativeSecondPerson": "bulmuyorsun",
+          "thirdPerson": "buluyor",
+          "negativeThirdPerson": "bulmuyor",
+          "firstPersonPlural": "buluyoruz",
+          "negativeFirstPersonPlural": "bulmuyoruz",
+          "secondPersonPlural": "buluyorsunuz",
+          "negativeSecondPersonPlural": "bulmuyorsunuz",
+          "thirdPersonPlural": "buluyorlar",
+          "negativeThirdPersonPlural": "bulmuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "donner",
+        "present": {
+          "firstPerson": "je donne",
+          "negativeFirstPerson": "je ne donne pas",
+          "secondPerson": "tu donnes",
+          "negativeSecondPerson": "tu ne donnes pas",
+          "thirdPerson": "il/elle donne",
+          "negativeThirdPerson": "il/elle ne donne pas",
+          "firstPersonPlural": "nous donnons",
+          "negativeFirstPersonPlural": "nous ne donnons pas",
+          "secondPersonPlural": "vous donnez",
+          "negativeSecondPersonPlural": "vous ne donnez pas",
+          "thirdPersonPlural": "ils/elles donnent",
+          "negativeThirdPersonPlural": "ils/elles ne donnent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "vermek",
+        "present": {
+          "firstPerson": "veriyorum",
+          "negativeFirstPerson": "vermiyorum",
+          "secondPerson": "veriyorsun",
+          "negativeSecondPerson": "vermiyorsun",
+          "thirdPerson": "veriyor",
+          "negativeThirdPerson": "vermiyor",
+          "firstPersonPlural": "veriyoruz",
+          "negativeFirstPersonPlural": "vermiyoruz",
+          "secondPersonPlural": "veriyorsunuz",
+          "negativeSecondPersonPlural": "vermiyorsunuz",
+          "thirdPersonPlural": "veriyorlar",
+          "negativeThirdPersonPlural": "vermiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "comprendre",
+        "present": {
+          "firstPerson": "je comprends",
+          "negativeFirstPerson": "je ne comprends pas",
+          "secondPerson": "tu comprends",
+          "negativeSecondPerson": "tu ne comprends pas",
+          "thirdPerson": "il/elle comprend",
+          "negativeThirdPerson": "il/elle ne comprend pas",
+          "firstPersonPlural": "nous comprenons",
+          "negativeFirstPersonPlural": "nous ne comprenons pas",
+          "secondPersonPlural": "vous comprenez",
+          "negativeSecondPersonPlural": "vous ne comprenez pas",
+          "thirdPersonPlural": "ils/elles comprennent",
+          "negativeThirdPersonPlural": "ils/elles ne comprennent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "anlamak",
+        "present": {
+          "firstPerson": "anlıyorum",
+          "negativeFirstPerson": "anlamıyorum",
+          "secondPerson": "anlıyorsun",
+          "negativeSecondPerson": "anlamıyorsun",
+          "thirdPerson": "anlıyor",
+          "negativeThirdPerson": "anlamıyor",
+          "firstPersonPlural": "anlıyoruz",
+          "negativeFirstPersonPlural": "anlamıyoruz",
+          "secondPersonPlural": "anlıyorsunuz",
+          "negativeSecondPersonPlural": "anlamıyorsunuz",
+          "thirdPersonPlural": "anlıyorlar",
+          "negativeThirdPersonPlural": "anlamıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "rester",
+        "present": {
+          "firstPerson": "je reste",
+          "negativeFirstPerson": "je ne reste pas",
+          "secondPerson": "tu restes",
+          "negativeSecondPerson": "tu ne restes pas",
+          "thirdPerson": "il/elle reste",
+          "negativeThirdPerson": "il/elle ne reste pas",
+          "firstPersonPlural": "nous restons",
+          "negativeFirstPersonPlural": "nous ne restons pas",
+          "secondPersonPlural": "vous restez",
+          "negativeSecondPersonPlural": "vous ne restez pas",
+          "thirdPersonPlural": "ils/elles restent",
+          "negativeThirdPersonPlural": "ils/elles ne restent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "kalmak",
+        "present": {
+          "firstPerson": "kalıyorum",
+          "negativeFirstPerson": "kalmıyorum",
+          "secondPerson": "kalıyorsun",
+          "negativeSecondPerson": "kalmıyorsun",
+          "thirdPerson": "kalıyor",
+          "negativeThirdPerson": "kalmıyor",
+          "firstPersonPlural": "kalıyoruz",
+          "negativeFirstPersonPlural": "kalmıyoruz",
+          "secondPersonPlural": "kalıyorsunuz",
+          "negativeSecondPersonPlural": "kalmıyorsunuz",
+          "thirdPersonPlural": "kalıyorlar",
+          "negativeThirdPersonPlural": "kalmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "tenir",
+        "present": {
+          "firstPerson": "je tiens",
+          "negativeFirstPerson": "je ne tiens pas",
+          "secondPerson": "tu tiens",
+          "negativeSecondPerson": "tu ne tiens pas",
+          "thirdPerson": "il/elle tient",
+          "negativeThirdPerson": "il/elle ne tient pas",
+          "firstPersonPlural": "nous tenons",
+          "negativeFirstPersonPlural": "nous ne tenons pas",
+          "secondPersonPlural": "vous tenez",
+          "negativeSecondPersonPlural": "vous ne tenez pas",
+          "thirdPersonPlural": "ils/elles tiennent",
+          "negativeThirdPersonPlural": "ils/elles ne tiennent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "tutmak",
+        "present": {
+          "firstPerson": "tutuyorum",
+          "negativeFirstPerson": "tutmuyorum",
+          "secondPerson": "tutuyorsun",
+          "negativeSecondPerson": "tutmuyorsun",
+          "thirdPerson": "tutuyor",
+          "negativeThirdPerson": "tutmuyor",
+          "firstPersonPlural": "tutuyoruz",
+          "negativeFirstPersonPlural": "tutmuyoruz",
+          "secondPersonPlural": "tutuyorsunuz",
+          "negativeSecondPersonPlural": "tutmuyorsunuz",
+          "thirdPersonPlural": "tutuyorlar",
+          "negativeThirdPersonPlural": "tutmuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "porter",
+        "present": {
+          "firstPerson": "je porte",
+          "negativeFirstPerson": "je ne porte pas",
+          "secondPerson": "tu portes",
+          "negativeSecondPerson": "tu ne portes pas",
+          "thirdPerson": "il/elle porte",
+          "negativeThirdPerson": "il/elle ne porte pas",
+          "firstPersonPlural": "nous portons",
+          "negativeFirstPersonPlural": "nous ne portons pas",
+          "secondPersonPlural": "vous portez",
+          "negativeSecondPersonPlural": "vous ne portez pas",
+          "thirdPersonPlural": "ils/elles portent",
+          "negativeThirdPersonPlural": "ils/elles ne portent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "taşımak",
+        "present": {
+          "firstPerson": "taşıyorum",
+          "negativeFirstPerson": "taşımıyorum",
+          "secondPerson": "taşıyorsun",
+          "negativeSecondPerson": "taşımıyorsun",
+          "thirdPerson": "taşıyor",
+          "negativeThirdPerson": "taşımıyor",
+          "firstPersonPlural": "taşıyoruz",
+          "negativeFirstPersonPlural": "taşımıyoruz",
+          "secondPersonPlural": "taşıyorsunuz",
+          "negativeSecondPersonPlural": "taşımıyorsunuz",
+          "thirdPersonPlural": "taşıyorlar",
+          "negativeThirdPersonPlural": "taşımıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "entrer",
+        "present": {
+          "firstPerson": "j'entre",
+          "negativeFirstPerson": "je n'entre pas",
+          "secondPerson": "tu entres",
+          "negativeSecondPerson": "tu n'entres pas",
+          "thirdPerson": "il/elle entre",
+          "negativeThirdPerson": "il/elle n'entre pas",
+          "firstPersonPlural": "nous entrons",
+          "negativeFirstPersonPlural": "nous n'entrons pas",
+          "secondPersonPlural": "vous entrez",
+          "negativeSecondPersonPlural": "vous n'entrez pas",
+          "thirdPersonPlural": "ils/elles entrent",
+          "negativeThirdPersonPlural": "ils/elles n'entrent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "girmek",
+        "present": {
+          "firstPerson": "giriyorum",
+          "negativeFirstPerson": "girmiyorum",
+          "secondPerson": "giriyorsun",
+          "negativeSecondPerson": "girmiyorsun",
+          "thirdPerson": "giriyor",
+          "negativeThirdPerson": "girmiyor",
+          "firstPersonPlural": "giriyoruz",
+          "negativeFirstPersonPlural": "girmiyoruz",
+          "secondPersonPlural": "giriyorsunuz",
+          "negativeSecondPersonPlural": "girmiyorsunuz",
+          "thirdPersonPlural": "giriyorlar",
+          "negativeThirdPersonPlural": "girmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "sortir",
+        "present": {
+          "firstPerson": "je sors",
+          "negativeFirstPerson": "je ne sors pas",
+          "secondPerson": "tu sors",
+          "negativeSecondPerson": "tu ne sors pas",
+          "thirdPerson": "il/elle sort",
+          "negativeThirdPerson": "il/elle ne sort pas",
+          "firstPersonPlural": "nous sortons",
+          "negativeFirstPersonPlural": "nous ne sortons pas",
+          "secondPersonPlural": "vous sortez",
+          "negativeSecondPersonPlural": "vous ne sortez pas",
+          "thirdPersonPlural": "ils/elles sortent",
+          "negativeThirdPersonPlural": "ils/elles ne sortent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "çıkmak",
+        "present": {
+          "firstPerson": "çıkıyorum",
+          "negativeFirstPerson": "çıkmıyorum",
+          "secondPerson": "çıkıyorsun",
+          "negativeSecondPerson": "çıkmıyorsun",
+          "thirdPerson": "çıkıyor",
+          "negativeThirdPerson": "çıkmıyor",
+          "firstPersonPlural": "çıkıyoruz",
+          "negativeFirstPersonPlural": "çıkmıyoruz",
+          "secondPersonPlural": "çıkıyorsunuz",
+          "negativeSecondPersonPlural": "çıkmıyorsunuz",
+          "thirdPersonPlural": "çıkıyorlar",
+          "negativeThirdPersonPlural": "çıkmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "écrire",
+        "present": {
+          "firstPerson": "je écris",
+          "negativeFirstPerson": "je n'écris pas",
+          "secondPerson": "tu écris",
+          "negativeSecondPerson": "tu n'écris pas",
+          "thirdPerson": "il/elle écrit",
+          "negativeThirdPerson": "il/elle n'écrit pas",
+          "firstPersonPlural": "nous écrivons",
+          "negativeFirstPersonPlural": "nous n'écrivons pas",
+          "secondPersonPlural": "vous écrivez",
+          "negativeSecondPersonPlural": "vous n'écrivez pas",
+          "thirdPersonPlural": "ils/elles écrivent",
+          "negativeThirdPersonPlural": "ils/elles n'écrivent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yazmak",
+        "present": {
+          "firstPerson": "yazıyorum",
+          "negativeFirstPerson": "yazmıyorum",
+          "secondPerson": "yazıyorsun",
+          "negativeSecondPerson": "yazmıyorsun",
+          "thirdPerson": "yazıyor",
+          "negativeThirdPerson": "yazmıyor",
+          "firstPersonPlural": "yazıyoruz",
+          "negativeFirstPersonPlural": "yazmıyoruz",
+          "secondPersonPlural": "yazıyorsunuz",
+          "negativeSecondPersonPlural": "yazmıyorsunuz",
+          "thirdPersonPlural": "yazıyorlar",
+          "negativeThirdPersonPlural": "yazmıyorlar"
         }
       }
     },
@@ -165,14 +977,682 @@
         "infinitive": "lire",
         "present": {
           "firstPerson": "je lis",
-          "negativeFirstPerson": "je ne lis pas"
+          "negativeFirstPerson": "je ne lis pas",
+          "secondPerson": "tu lis",
+          "negativeSecondPerson": "tu ne lis pas",
+          "thirdPerson": "il/elle lit",
+          "negativeThirdPerson": "il/elle ne lit pas",
+          "firstPersonPlural": "nous lisons",
+          "negativeFirstPersonPlural": "nous ne lisons pas",
+          "secondPersonPlural": "vous lisez",
+          "negativeSecondPersonPlural": "vous ne lisez pas",
+          "thirdPersonPlural": "ils/elles lisent",
+          "negativeThirdPersonPlural": "ils/elles ne lisent pas"
         }
       },
       "tr": {
         "infinitive": "okumak",
         "present": {
           "firstPerson": "okuyorum",
-          "negativeFirstPerson": "okumuyorum"
+          "negativeFirstPerson": "okumuyorum",
+          "secondPerson": "okuyorsun",
+          "negativeSecondPerson": "okumuyorsun",
+          "thirdPerson": "okuyor",
+          "negativeThirdPerson": "okumuyor",
+          "firstPersonPlural": "okuyoruz",
+          "negativeFirstPersonPlural": "okumuyoruz",
+          "secondPersonPlural": "okuyorsunuz",
+          "negativeSecondPersonPlural": "okumuyorsunuz",
+          "thirdPersonPlural": "okuyorlar",
+          "negativeThirdPersonPlural": "okumuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "jouer",
+        "present": {
+          "firstPerson": "je joue",
+          "negativeFirstPerson": "je ne joue pas",
+          "secondPerson": "tu joues",
+          "negativeSecondPerson": "tu ne joues pas",
+          "thirdPerson": "il/elle joue",
+          "negativeThirdPerson": "il/elle ne joue pas",
+          "firstPersonPlural": "nous jouons",
+          "negativeFirstPersonPlural": "nous ne jouons pas",
+          "secondPersonPlural": "vous jouez",
+          "negativeSecondPersonPlural": "vous ne jouez pas",
+          "thirdPersonPlural": "ils/elles jouent",
+          "negativeThirdPersonPlural": "ils/elles ne jouent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "oynamak",
+        "present": {
+          "firstPerson": "oynuyorum",
+          "negativeFirstPerson": "oynamıyorum",
+          "secondPerson": "oynuyorsun",
+          "negativeSecondPerson": "oynamıyorsun",
+          "thirdPerson": "oynuyor",
+          "negativeThirdPerson": "oynamıyor",
+          "firstPersonPlural": "oynuyoruz",
+          "negativeFirstPersonPlural": "oynamıyoruz",
+          "secondPersonPlural": "oynuyorsunuz",
+          "negativeSecondPersonPlural": "oynamıyorsunuz",
+          "thirdPersonPlural": "oynuyorlar",
+          "negativeThirdPersonPlural": "oynamıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "vivre",
+        "present": {
+          "firstPerson": "je vis",
+          "negativeFirstPerson": "je ne vis pas",
+          "secondPerson": "tu vis",
+          "negativeSecondPerson": "tu ne vis pas",
+          "thirdPerson": "il/elle vit",
+          "negativeThirdPerson": "il/elle ne vit pas",
+          "firstPersonPlural": "nous vivons",
+          "negativeFirstPersonPlural": "nous ne vivons pas",
+          "secondPersonPlural": "vous vivez",
+          "negativeSecondPersonPlural": "vous ne vivez pas",
+          "thirdPersonPlural": "ils/elles vivent",
+          "negativeThirdPersonPlural": "ils/elles ne vivent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yaşamak",
+        "present": {
+          "firstPerson": "yaşıyorum",
+          "negativeFirstPerson": "yaşamıyorum",
+          "secondPerson": "yaşıyorsun",
+          "negativeSecondPerson": "yaşamıyorsun",
+          "thirdPerson": "yaşıyor",
+          "negativeThirdPerson": "yaşamıyor",
+          "firstPersonPlural": "yaşıyoruz",
+          "negativeFirstPersonPlural": "yaşamıyoruz",
+          "secondPersonPlural": "yaşıyorsunuz",
+          "negativeSecondPersonPlural": "yaşamıyorsunuz",
+          "thirdPersonPlural": "yaşıyorlar",
+          "negativeThirdPersonPlural": "yaşamıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "travailler",
+        "present": {
+          "firstPerson": "je travaille",
+          "negativeFirstPerson": "je ne travaille pas",
+          "secondPerson": "tu travailles",
+          "negativeSecondPerson": "tu ne travailles pas",
+          "thirdPerson": "il/elle travaille",
+          "negativeThirdPerson": "il/elle ne travaille pas",
+          "firstPersonPlural": "nous travaillons",
+          "negativeFirstPersonPlural": "nous ne travaillons pas",
+          "secondPersonPlural": "vous travaillez",
+          "negativeSecondPersonPlural": "vous ne travaillez pas",
+          "thirdPersonPlural": "ils/elles travaillent",
+          "negativeThirdPersonPlural": "ils/elles ne travaillent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "çalışmak",
+        "present": {
+          "firstPerson": "çalışıyorum",
+          "negativeFirstPerson": "çalışmıyorum",
+          "secondPerson": "çalışıyorsun",
+          "negativeSecondPerson": "çalışmıyorsun",
+          "thirdPerson": "çalışıyor",
+          "negativeThirdPerson": "çalışmıyor",
+          "firstPersonPlural": "çalışıyoruz",
+          "negativeFirstPersonPlural": "çalışmıyoruz",
+          "secondPersonPlural": "çalışıyorsunuz",
+          "negativeSecondPersonPlural": "çalışmıyorsunuz",
+          "thirdPersonPlural": "çalışıyorlar",
+          "negativeThirdPersonPlural": "çalışmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "étudier",
+        "present": {
+          "firstPerson": "je étudie",
+          "negativeFirstPerson": "je n'étudie pas",
+          "secondPerson": "tu étudies",
+          "negativeSecondPerson": "tu n'étudies pas",
+          "thirdPerson": "il/elle étudie",
+          "negativeThirdPerson": "il/elle n'étudie pas",
+          "firstPersonPlural": "nous étudions",
+          "negativeFirstPersonPlural": "nous n'étudions pas",
+          "secondPersonPlural": "vous étudiez",
+          "negativeSecondPersonPlural": "vous n'étudiez pas",
+          "thirdPersonPlural": "ils/elles étudient",
+          "negativeThirdPersonPlural": "ils/elles n'étudient pas"
+        }
+      },
+      "tr": {
+        "infinitive": "öğrenmek",
+        "present": {
+          "firstPerson": "öğreniyorum",
+          "negativeFirstPerson": "öğrenmiyorum",
+          "secondPerson": "öğreniyorsun",
+          "negativeSecondPerson": "öğrenmiyorsun",
+          "thirdPerson": "öğreniyor",
+          "negativeThirdPerson": "öğrenmiyor",
+          "firstPersonPlural": "öğreniyoruz",
+          "negativeFirstPersonPlural": "öğrenmiyoruz",
+          "secondPersonPlural": "öğreniyorsunuz",
+          "negativeSecondPersonPlural": "öğrenmiyorsunuz",
+          "thirdPersonPlural": "öğreniyorlar",
+          "negativeThirdPersonPlural": "öğrenmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "attendre",
+        "present": {
+          "firstPerson": "j'attends",
+          "negativeFirstPerson": "je n'attends pas",
+          "secondPerson": "tu attends",
+          "negativeSecondPerson": "tu n'attends pas",
+          "thirdPerson": "il/elle attend",
+          "negativeThirdPerson": "il/elle n'attend pas",
+          "firstPersonPlural": "nous attendons",
+          "negativeFirstPersonPlural": "nous n'attendons pas",
+          "secondPersonPlural": "vous attendez",
+          "negativeSecondPersonPlural": "vous n'attendez pas",
+          "thirdPersonPlural": "ils/elles attendent",
+          "negativeThirdPersonPlural": "ils/elles n'attendez pas"
+        }
+      },
+      "tr": {
+        "infinitive": "beklemek",
+        "present": {
+          "firstPerson": "bekliyorum",
+          "negativeFirstPerson": "beklemiyorum",
+          "secondPerson": "bekliyorsun",
+          "negativeSecondPerson": "beklemiyorsun",
+          "thirdPerson": "bekliyor",
+          "negativeThirdPerson": "beklemiyor",
+          "firstPersonPlural": "bekliyoruz",
+          "negativeFirstPersonPlural": "beklemiyoruz",
+          "secondPersonPlural": "bekliyorsunuz",
+          "negativeSecondPersonPlural": "beklemiyorsunuz",
+          "thirdPersonPlural": "bekliyorlar",
+          "negativeThirdPersonPlural": "beklemiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "utiliser",
+        "present": {
+          "firstPerson": "j'utilise",
+          "negativeFirstPerson": "je n'utilise pas",
+          "secondPerson": "tu utilises",
+          "negativeSecondPerson": "tu n'utilises pas",
+          "thirdPerson": "il/elle utilise",
+          "negativeThirdPerson": "il/elle n'utilise pas",
+          "firstPersonPlural": "nous utilisons",
+          "negativeFirstPersonPlural": "nous n'utilisons pas",
+          "secondPersonPlural": "vous utilisez",
+          "negativeSecondPersonPlural": "vous n'utilisez pas",
+          "thirdPersonPlural": "ils/elles utilisent",
+          "negativeThirdPersonPlural": "ils/elles n'utilisent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "kullanmak",
+        "present": {
+          "firstPerson": "kullanıyorum",
+          "negativeFirstPerson": "kullanmıyorum",
+          "secondPerson": "kullanıyorsun",
+          "negativeSecondPerson": "kullanmıyorsun",
+          "thirdPerson": "kullanıyor",
+          "negativeThirdPerson": "kullanmıyor",
+          "firstPersonPlural": "kullanıyoruz",
+          "negativeFirstPersonPlural": "kullanmıyoruz",
+          "secondPersonPlural": "kullanıyorsunuz",
+          "negativeSecondPersonPlural": "kullanmıyorsunuz",
+          "thirdPersonPlural": "kullanıyorlar",
+          "negativeThirdPersonPlural": "kullanmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "apprendre",
+        "present": {
+          "firstPerson": "j'apprends",
+          "negativeFirstPerson": "je n'apprends pas",
+          "secondPerson": "tu apprends",
+          "negativeSecondPerson": "tu n'apprends pas",
+          "thirdPerson": "il/elle apprend",
+          "negativeThirdPerson": "il/elle n'apprend pas",
+          "firstPersonPlural": "nous apprenons",
+          "negativeFirstPersonPlural": "nous n'apprenons pas",
+          "secondPersonPlural": "vous apprenez",
+          "negativeSecondPersonPlural": "vous n'apprenez pas",
+          "thirdPersonPlural": "ils/elles apprennent",
+          "negativeThirdPersonPlural": "ils/elles n'apprennent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "öğrenmek",
+        "present": {
+          "firstPerson": "öğreniyorum",
+          "negativeFirstPerson": "öğrenmiyorum",
+          "secondPerson": "öğreniyorsun",
+          "negativeSecondPerson": "öğrenmiyorsun",
+          "thirdPerson": "öğreniyor",
+          "negativeThirdPerson": "öğrenmiyor",
+          "firstPersonPlural": "öğreniyoruz",
+          "negativeFirstPersonPlural": "öğrenmiyoruz",
+          "secondPersonPlural": "öğreniyorsunuz",
+          "negativeSecondPersonPlural": "öğrenmiyorsunuz",
+          "thirdPersonPlural": "öğreniyorlar",
+          "negativeThirdPersonPlural": "öğrenmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "ouvrir",
+        "present": {
+          "firstPerson": "j'ouvre",
+          "negativeFirstPerson": "je n'ouvre pas",
+          "secondPerson": "tu ouvres",
+          "negativeSecondPerson": "tu n'ouvres pas",
+          "thirdPerson": "il/elle ouvre",
+          "negativeThirdPerson": "il/elle n'ouvre pas",
+          "firstPersonPlural": "nous ouvrons",
+          "negativeFirstPersonPlural": "nous n'ouvrons pas",
+          "secondPersonPlural": "vous ouvrez",
+          "negativeSecondPersonPlural": "vous n'ouvrez pas",
+          "thirdPersonPlural": "ils/elles ouvrent",
+          "negativeThirdPersonPlural": "ils/elles n'ouvrent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "açmak",
+        "present": {
+          "firstPerson": "açıyorum",
+          "negativeFirstPerson": "açmıyorum",
+          "secondPerson": "açıyorsun",
+          "negativeSecondPerson": "açmıyorsun",
+          "thirdPerson": "açıyor",
+          "negativeThirdPerson": "açmıyor",
+          "firstPersonPlural": "açıyoruz",
+          "negativeFirstPersonPlural": "açmıyoruz",
+          "secondPersonPlural": "açıyorsunuz",
+          "negativeSecondPersonPlural": "açmıyorsunuz",
+          "thirdPersonPlural": "açıyorlar",
+          "negativeThirdPersonPlural": "açmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "fermer",
+        "present": {
+          "firstPerson": "je ferme",
+          "negativeFirstPerson": "je ne ferme pas",
+          "secondPerson": "tu fermes",
+          "negativeSecondPerson": "tu ne fermes pas",
+          "thirdPerson": "il/elle ferme",
+          "negativeThirdPerson": "il/elle ne ferme pas",
+          "firstPersonPlural": "nous fermons",
+          "negativeFirstPersonPlural": "nous ne fermons pas",
+          "secondPersonPlural": "vous fermez",
+          "negativeSecondPersonPlural": "vous ne fermez pas",
+          "thirdPersonPlural": "ils/elles ferment",
+          "negativeThirdPersonPlural": "ils/elles ne ferment pas"
+        }
+      },
+      "tr": {
+        "infinitive": "kapatmak",
+        "present": {
+          "firstPerson": "kapatıyorum",
+          "negativeFirstPerson": "kapatmıyorum",
+          "secondPerson": "kapatıyorsun",
+          "negativeSecondPerson": "kapatmıyorsun",
+          "thirdPerson": "kapatıyor",
+          "negativeThirdPerson": "kapatmıyor",
+          "firstPersonPlural": "kapatıyoruz",
+          "negativeFirstPersonPlural": "kapatmıyoruz",
+          "secondPersonPlural": "kapatıyorsunuz",
+          "negativeSecondPersonPlural": "kapatmıyorsunuz",
+          "thirdPersonPlural": "kapatıyorlar",
+          "negativeThirdPersonPlural": "kapatmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "écouter",
+        "present": {
+          "firstPerson": "je écoute",
+          "negativeFirstPerson": "je n'écoute pas",
+          "secondPerson": "tu écoutes",
+          "negativeSecondPerson": "tu n'écoutes pas",
+          "thirdPerson": "il/elle écoute",
+          "negativeThirdPerson": "il/elle n'écoute pas",
+          "firstPersonPlural": "nous écoutons",
+          "negativeFirstPersonPlural": "nous n'écoutons pas",
+          "secondPersonPlural": "vous écoutez",
+          "negativeSecondPersonPlural": "vous n'écoutez pas",
+          "thirdPersonPlural": "ils/elles écoutent",
+          "negativeThirdPersonPlural": "ils/elles n'écoutent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "dinlemek",
+        "present": {
+          "firstPerson": "dinliyorum",
+          "negativeFirstPerson": "dinlemiyorum",
+          "secondPerson": "dinliyorsun",
+          "negativeSecondPerson": "dinlemiyorsun",
+          "thirdPerson": "dinliyor",
+          "negativeThirdPerson": "dinlemiyor",
+          "firstPersonPlural": "dinliyoruz",
+          "negativeFirstPersonPlural": "dinlemiyoruz",
+          "secondPersonPlural": "dinliyorsunuz",
+          "negativeSecondPersonPlural": "dinlemiyorsunuz",
+          "thirdPersonPlural": "dinliyorlar",
+          "negativeThirdPersonPlural": "dinlemiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "regarder",
+        "present": {
+          "firstPerson": "je regarde",
+          "negativeFirstPerson": "je ne regarde pas",
+          "secondPerson": "tu regardes",
+          "negativeSecondPerson": "tu ne regardes pas",
+          "thirdPerson": "il/elle regarde",
+          "negativeThirdPerson": "il/elle ne regarde pas",
+          "firstPersonPlural": "nous regardons",
+          "negativeFirstPersonPlural": "nous ne regardons pas",
+          "secondPersonPlural": "vous regardez",
+          "negativeSecondPersonPlural": "vous ne regardez pas",
+          "thirdPersonPlural": "ils/elles regardent",
+          "negativeThirdPersonPlural": "ils/elles ne regardent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "izlemek",
+        "present": {
+          "firstPerson": "izliyorum",
+          "negativeFirstPerson": "izlemiyorum",
+          "secondPerson": "izliyorsun",
+          "negativeSecondPerson": "izlemiyorsun",
+          "thirdPerson": "izliyor",
+          "negativeThirdPerson": "izlemiyor",
+          "firstPersonPlural": "izliyoruz",
+          "negativeFirstPersonPlural": "izlemiyoruz",
+          "secondPersonPlural": "izliyorsunuz",
+          "negativeSecondPersonPlural": "izlemiyorsunuz",
+          "thirdPersonPlural": "izliyorlar",
+          "negativeThirdPersonPlural": "izlemiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "marcher",
+        "present": {
+          "firstPerson": "je marche",
+          "negativeFirstPerson": "je ne marche pas",
+          "secondPerson": "tu marches",
+          "negativeSecondPerson": "tu ne marches pas",
+          "thirdPerson": "il/elle marche",
+          "negativeThirdPerson": "il/elle ne marche pas",
+          "firstPersonPlural": "nous marchons",
+          "negativeFirstPersonPlural": "nous ne marchons pas",
+          "secondPersonPlural": "vous marchez",
+          "negativeSecondPersonPlural": "vous ne marchez pas",
+          "thirdPersonPlural": "ils/elles marchent",
+          "negativeThirdPersonPlural": "ils/elles ne marchent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yürümek",
+        "present": {
+          "firstPerson": "yürüyorum",
+          "negativeFirstPerson": "yürümüyorum",
+          "secondPerson": "yürüyorsun",
+          "negativeSecondPerson": "yürümüyorsun",
+          "thirdPerson": "yürüyor",
+          "negativeThirdPerson": "yürümüyor",
+          "firstPersonPlural": "yürüyoruz",
+          "negativeFirstPersonPlural": "yürümüyoruz",
+          "secondPersonPlural": "yürüyorsunuz",
+          "negativeSecondPersonPlural": "yürümüyorsunuz",
+          "thirdPersonPlural": "yürüyorlar",
+          "negativeThirdPersonPlural": "yürümüyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "courir",
+        "present": {
+          "firstPerson": "je cours",
+          "negativeFirstPerson": "je ne cours pas",
+          "secondPerson": "tu cours",
+          "negativeSecondPerson": "tu ne cours pas",
+          "thirdPerson": "il/elle court",
+          "negativeThirdPerson": "il/elle ne court pas",
+          "firstPersonPlural": "nous courons",
+          "negativeFirstPersonPlural": "nous ne courons pas",
+          "secondPersonPlural": "vous courez",
+          "negativeSecondPersonPlural": "vous ne courez pas",
+          "thirdPersonPlural": "ils/elles courent",
+          "negativeThirdPersonPlural": "ils/elles ne courent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "koşmak",
+        "present": {
+          "firstPerson": "koşuyorum",
+          "negativeFirstPerson": "koşmuyorum",
+          "secondPerson": "koşuyorsun",
+          "negativeSecondPerson": "koşmuyorsun",
+          "thirdPerson": "koşuyor",
+          "negativeThirdPerson": "koşmuyor",
+          "firstPersonPlural": "koşuyoruz",
+          "negativeFirstPersonPlural": "koşmuyoruz",
+          "secondPersonPlural": "koşuyorsunuz",
+          "negativeSecondPersonPlural": "koşmuyorsunuz",
+          "thirdPersonPlural": "koşuyorlar",
+          "negativeThirdPersonPlural": "koşmuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "manger",
+        "present": {
+          "firstPerson": "je mange",
+          "negativeFirstPerson": "je ne mange pas",
+          "secondPerson": "tu manges",
+          "negativeSecondPerson": "tu ne manges pas",
+          "thirdPerson": "il/elle mange",
+          "negativeThirdPerson": "il/elle ne mange pas",
+          "firstPersonPlural": "nous mangons",
+          "negativeFirstPersonPlural": "nous ne mangons pas",
+          "secondPersonPlural": "vous mangez",
+          "negativeSecondPersonPlural": "vous ne mangez pas",
+          "thirdPersonPlural": "ils/elles mangent",
+          "negativeThirdPersonPlural": "ils/elles ne mangent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "yemek",
+        "present": {
+          "firstPerson": "yiyorum",
+          "negativeFirstPerson": "yemiyorum",
+          "secondPerson": "yiyorsun",
+          "negativeSecondPerson": "yemiyorsun",
+          "thirdPerson": "yiyor",
+          "negativeThirdPerson": "yemiyor",
+          "firstPersonPlural": "yiyoruz",
+          "negativeFirstPersonPlural": "yemiyoruz",
+          "secondPersonPlural": "yiyorsunuz",
+          "negativeSecondPersonPlural": "yemiyorsunuz",
+          "thirdPersonPlural": "yiyorlar",
+          "negativeThirdPersonPlural": "yemiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "boire",
+        "present": {
+          "firstPerson": "je bois",
+          "negativeFirstPerson": "je ne bois pas",
+          "secondPerson": "tu bois",
+          "negativeSecondPerson": "tu ne bois pas",
+          "thirdPerson": "il/elle boit",
+          "negativeThirdPerson": "il/elle ne boit pas",
+          "firstPersonPlural": "nous buvons",
+          "negativeFirstPersonPlural": "nous ne buvons pas",
+          "secondPersonPlural": "vous buvez",
+          "negativeSecondPersonPlural": "vous ne buvez pas",
+          "thirdPersonPlural": "ils/elles boivent",
+          "negativeThirdPersonPlural": "ils/elles ne boivent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "içmek",
+        "present": {
+          "firstPerson": "içiyorum",
+          "negativeFirstPerson": "içmiyorum",
+          "secondPerson": "içiyorsun",
+          "negativeSecondPerson": "içmiyorsun",
+          "thirdPerson": "içiyor",
+          "negativeThirdPerson": "içmiyor",
+          "firstPersonPlural": "içiyoruz",
+          "negativeFirstPersonPlural": "içmiyoruz",
+          "secondPersonPlural": "içiyorsunuz",
+          "negativeSecondPersonPlural": "içmiyorsunuz",
+          "thirdPersonPlural": "içiyorlar",
+          "negativeThirdPersonPlural": "içmiyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "dormir",
+        "present": {
+          "firstPerson": "je dors",
+          "negativeFirstPerson": "je ne dors pas",
+          "secondPerson": "tu dors",
+          "negativeSecondPerson": "tu ne dors pas",
+          "thirdPerson": "il/elle dort",
+          "negativeThirdPerson": "il/elle ne dort pas",
+          "firstPersonPlural": "nous dormons",
+          "negativeFirstPersonPlural": "nous ne dormons pas",
+          "secondPersonPlural": "vous dormez",
+          "negativeSecondPersonPlural": "vous ne dormez pas",
+          "thirdPersonPlural": "ils/elles dorment",
+          "negativeThirdPersonPlural": "ils/elles ne dorment pas"
+        }
+      },
+      "tr": {
+        "infinitive": "uyumak",
+        "present": {
+          "firstPerson": "uyuyorum",
+          "negativeFirstPerson": "uyumuyorum",
+          "secondPerson": "uyuyorsun",
+          "negativeSecondPerson": "uyumuyorsun",
+          "thirdPerson": "uyuyor",
+          "negativeThirdPerson": "uyumuyor",
+          "firstPersonPlural": "uyuyoruz",
+          "negativeFirstPersonPlural": "uyumuyoruz",
+          "secondPersonPlural": "uyuyorsunuz",
+          "negativeSecondPersonPlural": "uyumuyorsunuz",
+          "thirdPersonPlural": "uyuyorlar",
+          "negativeThirdPersonPlural": "uyumuyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "se lever",
+        "present": {
+          "firstPerson": "je me lève",
+          "negativeFirstPerson": "je ne me lève pas",
+          "secondPerson": "tu te lèves",
+          "negativeSecondPerson": "tu ne te lèves pas",
+          "thirdPerson": "il/elle se lève",
+          "negativeThirdPerson": "il/elle ne se lève pas",
+          "firstPersonPlural": "nous nous levons",
+          "negativeFirstPersonPlural": "nous ne nous levons pas",
+          "secondPersonPlural": "vous vous levez",
+          "negativeSecondPersonPlural": "vous ne vous levez pas",
+          "thirdPersonPlural": "ils/elles se lèvent",
+          "negativeThirdPersonPlural": "ils/elles ne se lèvent pas"
+        }
+      },
+      "tr": {
+        "infinitive": "kalkmak",
+        "present": {
+          "firstPerson": "kalkıyorum",
+          "negativeFirstPerson": "kalkmıyorum",
+          "secondPerson": "kalkıyorsun",
+          "negativeSecondPerson": "kalkmıyorsun",
+          "thirdPerson": "kalkıyor",
+          "negativeThirdPerson": "kalkmıyor",
+          "firstPersonPlural": "kalkıyoruz",
+          "negativeFirstPersonPlural": "kalkmıyoruz",
+          "secondPersonPlural": "kalkıyorsunuz",
+          "negativeSecondPersonPlural": "kalkmıyorsunuz",
+          "thirdPersonPlural": "kalkıyorlar",
+          "negativeThirdPersonPlural": "kalkmıyorlar"
+        }
+      }
+    },
+    {
+      "fr": {
+        "infinitive": "s'asseoir",
+        "present": {
+          "firstPerson": "je m'assois",
+          "negativeFirstPerson": "je ne m'assois pas",
+          "secondPerson": "tu t'assois",
+          "negativeSecondPerson": "tu ne t'assois pas",
+          "thirdPerson": "il/elle s'assoit",
+          "negativeThirdPerson": "il/elle ne s'assoit pas",
+          "firstPersonPlural": "nous nous assoyons",
+          "negativeFirstPersonPlural": "nous ne nous assoyons pas",
+          "secondPersonPlural": "vous vous assoyez",
+          "negativeSecondPersonPlural": "vous ne vous assoyez pas",
+          "thirdPersonPlural": "ils/elles s'assoient",
+          "negativeThirdPersonPlural": "ils/elles ne s'assoient pas"
+        }
+      },
+      "tr": {
+        "infinitive": "oturmak",
+        "present": {
+          "firstPerson": "oturuyorum",
+          "negativeFirstPerson": "oturmuyorum",
+          "secondPerson": "oturuyorsun",
+          "negativeSecondPerson": "oturmuyorsun",
+          "thirdPerson": "oturuyor",
+          "negativeThirdPerson": "oturmuyor",
+          "firstPersonPlural": "oturuyoruz",
+          "negativeFirstPersonPlural": "oturmuyoruz",
+          "secondPersonPlural": "oturuyorsunuz",
+          "negativeSecondPersonPlural": "oturmuyorsunuz",
+          "thirdPersonPlural": "oturuyorlar",
+          "negativeThirdPersonPlural": "oturmuyorlar"
         }
       }
     }
