@@ -1,0 +1,618 @@
+[
+  {
+    "fr": "adorable",
+    "tr": "sevimli"
+  },
+  {
+    "fr": "agité / agitée",
+    "tr": "huzursuz"
+  },
+  {
+    "fr": "agréable",
+    "tr": "hoş"
+  },
+  {
+    "fr": "aimable",
+    "tr": "nazik"
+  },
+  {
+    "fr": "ancien / ancienne",
+    "tr": "eski"
+  },
+  {
+    "fr": "angoissé / angoissée",
+    "tr": "endişeli"
+  },
+  {
+    "fr": "arrogant / arrogante",
+    "tr": "kibirli"
+  },
+  {
+    "fr": "assuré / assurée",
+    "tr": "kendine güvenen"
+  },
+  {
+    "fr": "attentif / attentive",
+    "tr": "dikkatli"
+  },
+  {
+    "fr": "bas / basse",
+    "tr": "alçak"
+  },
+  {
+    "fr": "beau / belle",
+    "tr": "güzel"
+  },
+  {
+    "fr": "bizarre",
+    "tr": "garip"
+  },
+  {
+    "fr": "blanc / blanche",
+    "tr": "beyaz"
+  },
+  {
+    "fr": "bleu / bleue",
+    "tr": "mavi"
+  },
+  {
+    "fr": "bon / bonne",
+    "tr": "iyi"
+  },
+  {
+    "fr": "brave",
+    "tr": "cesur"
+  },
+  {
+    "fr": "bref / brève",
+    "tr": "kısa"
+  },
+  {
+    "fr": "bruyant / bruyante",
+    "tr": "gürültülü"
+  },
+  {
+    "fr": "calme",
+    "tr": "sakin"
+  },
+  {
+    "fr": "capable",
+    "tr": "yetenekli"
+  },
+  {
+    "fr": "chaud / chaude",
+    "tr": "sıcak"
+  },
+  {
+    "fr": "cher / chère",
+    "tr": "pahalı"
+  },
+  {
+    "fr": "clair / claire",
+    "tr": "açık"
+  },
+  {
+    "fr": "compliqué / compliquée",
+    "tr": "karmaşık"
+  },
+  {
+    "fr": "confiant / confiante",
+    "tr": "güvenli"
+  },
+  {
+    "fr": "content / contente",
+    "tr": "memnun"
+  },
+  {
+    "fr": "courageux / courageuse",
+    "tr": "cesur"
+  },
+  {
+    "fr": "courant / courante",
+    "tr": "yaygın"
+  },
+  {
+    "fr": "court / courte",
+    "tr": "kısa"
+  },
+  {
+    "fr": "créatif / créative",
+    "tr": "yaratıcı"
+  },
+  {
+    "fr": "curieux / curieuse",
+    "tr": "meraklı"
+  },
+  {
+    "fr": "dangereux / dangereuse",
+    "tr": "tehlikeli"
+  },
+  {
+    "fr": "difficile",
+    "tr": "zor"
+  },
+  {
+    "fr": "différent / différente",
+    "tr": "farklı"
+  },
+  {
+    "fr": "distrait / distraite",
+    "tr": "dalgın"
+  },
+  {
+    "fr": "doux / douce",
+    "tr": "tatlı"
+  },
+  {
+    "fr": "drôle",
+    "tr": "komik"
+  },
+  {
+    "fr": "délicat / délicate",
+    "tr": "narin"
+  },
+  {
+    "fr": "délicieux / délicieuse",
+    "tr": "lezzetli"
+  },
+  {
+    "fr": "efficace",
+    "tr": "etkili"
+  },  
+  {
+    "fr": "égoïste",
+    "tr": "bencil"
+  },  
+  {
+    "fr": "élevé / élevée",
+    "tr": "yüksek"
+  },  
+  {
+    "fr": "énervé / énervée",
+    "tr": "sinirli"
+  },  
+  {
+    "fr": "énorme",
+    "tr": "kocaman"
+  },
+  {
+    "fr": "ennuyeux / ennuyeuse",
+    "tr": "sıkıcı"
+  },
+  {
+    "fr": "étrange",
+    "tr": "tuhaf"
+  },
+  {
+    "fr": "facile",
+    "tr": "kolay"
+  },
+  {
+    "fr": "faible",
+    "tr": "zayıf"
+  },
+  {
+    "fr": "fatigué / fatiguée",
+    "tr": "yorgun"
+  },
+  {
+    "fr": "favori / favorite",
+    "tr": "favori"
+  },
+  {
+    "fr": "fier / fière",
+    "tr": "gururlu"
+  },
+  {
+    "fr": "fini / finie",
+    "tr": "bitmiş"
+  },
+  {
+    "fr": "fort / forte",
+    "tr": "güçlü"
+  },
+  {
+    "fr": "fou / folle",
+    "tr": "deli"
+  },
+  {
+    "fr": "français / française",
+    "tr": "Fransız"
+  },
+  {
+    "fr": "froid / froide",
+    "tr": "soğuk"
+  },
+  {
+    "fr": "fréquent / fréquente",
+    "tr": "sık"
+  },
+  {
+    "fr": "fâché / fâchée",
+    "tr": "kızgın"
+  },
+  {
+    "fr": "gentil / gentille",
+    "tr": "kibar"
+  },
+  {
+    "fr": "glacial / glaciale",
+    "tr": "buz gibi"
+  },
+  {
+    "fr": "grand / grande",
+    "tr": "büyük"
+  },
+  {
+    "fr": "grave",
+    "tr": "ciddi"
+  },
+  {
+    "fr": "gris / grise",
+    "tr": "gri"
+  },
+  {
+    "fr": "gros / grosse",
+    "tr": "şişman"
+  },
+  {
+    "fr": "généreux / généreuse",
+    "tr": "cömert"
+  },
+  {
+    "fr": "haut / haute",
+    "tr": "yüksek"
+  },
+  {
+    "fr": "heureux / heureuse",
+    "tr": "mutlu"
+  },
+  {
+    "fr": "humble",
+    "tr": "alçakgönüllü"
+  },
+  {
+    "fr": "important / importante",
+    "tr": "önemli"
+  },
+  {
+    "fr": "impossible",
+    "tr": "imkansız"
+  },
+  {
+    "fr": "incroyable",
+    "tr": "inanılmaz"
+  },
+  {
+    "fr": "indifférent / indifférente",
+    "tr": "umursamaz"
+  },
+  {
+    "fr": "intelligent / intelligente",
+    "tr": "zeki"
+  },
+  {
+    "fr": "intéressant / intéressante",
+    "tr": "ilginç"
+  },
+  {
+    "fr": "jaloux / jalouse",
+    "tr": "kıskanç"
+  },
+  {
+    "fr": "jaune",
+    "tr": "sarı"
+  },
+  {
+    "fr": "jeune",
+    "tr": "genç"
+  },
+  {
+    "fr": "joli / jolie",
+    "tr": "şirin"
+  },
+  {
+    "fr": "joyeux / joyeuse",
+    "tr": "neşeli"
+  },
+  {
+    "fr": "juste",
+    "tr": "adil"
+  },
+  {
+    "fr": "laid / laide",
+    "tr": "çirkin"
+  },
+  {
+    "fr": "large",
+    "tr": "geniş"
+  },
+  {
+    "fr": "lent / lente",
+    "tr": "yavaş"
+  },
+  {
+    "fr": "libre",
+    "tr": "özgür"
+  },
+  {
+    "fr": "lisse",
+    "tr": "düz"
+  },
+  {
+    "fr": "long / longue",
+    "tr": "uzun"
+  },
+  {
+    "fr": "lourd / lourde",
+    "tr": "ağır"
+  },
+  {
+    "fr": "lumineux / lumineuse",
+    "tr": "aydınlık"
+  },
+  {
+    "fr": "malade",
+    "tr": "hasta"
+  },
+  {
+    "fr": "malheureux / malheureuse",
+    "tr": "mutsuz"
+  },
+  {
+    "fr": "mauvais / mauvaise",
+    "tr": "kötü"
+  },
+  {
+    "fr": "meilleur / meilleure",
+    "tr": "daha iyi"
+  },
+  {
+    "fr": "mignon / mignonne",
+    "tr": "tatlı"
+  },
+  {
+    "fr": "mince",
+    "tr": "zayıf"
+  },
+  {
+    "fr": "moderne",
+    "tr": "modern"
+  },
+  {
+    "fr": "moelleux / moelleuse",
+    "tr": "yumuşak"
+  },
+  {
+    "fr": "mou / molle",
+    "tr": "gevşek"
+  },
+  {
+    "fr": "mélancolique",
+    "tr": "melankolik"
+  },
+  {
+    "fr": "méprisant / méprisante",
+    "tr": "küçümseyici"
+  },
+  {
+    "fr": "naturel / naturelle",
+    "tr": "doğal"
+  },
+  {
+    "fr": "naïf / naïve",
+    "tr": "saf"
+  },
+  {
+    "fr": "nerveux / nerveuse",
+    "tr": "gergin"
+  },
+  {
+    "fr": "noir / noire",
+    "tr": "siyah"
+  },
+  {
+    "fr": "nouveau / nouvelle",
+    "tr": "yeni"
+  },
+  {
+    "fr": "nul / nulle",
+    "tr": "berbat"
+  },
+  {
+    "fr": "occupé / occupée",
+    "tr": "meşgul"
+  },
+  {
+    "fr": "optimiste",
+    "tr": "iyimser"
+  },
+  {
+    "fr": "orange",
+    "tr": "turuncu"
+  },
+  {
+    "fr": "ordinaire",
+    "tr": "sıradan"
+  },
+  {
+    "fr": "ouvert / ouverte",
+    "tr": "açık"
+  },
+  {
+    "fr": "paresseux / paresseuse",
+    "tr": "tembel"
+  },
+  {
+    "fr": "parfait / parfaite",
+    "tr": "mükemmel"
+  },
+  {
+    "fr": "particulier / particulière",
+    "tr": "özel"
+  },
+  {
+    "fr": "pauvre",
+    "tr": "fakir"
+  },
+  {
+    "fr": "pessimiste",
+    "tr": "karamsar"
+  },
+  {
+    "fr": "petit / petite",
+    "tr": "küçük"
+  },
+  {
+    "fr": "peureux / peureuse",
+    "tr": "korkak"
+  },
+  {
+    "fr": "plein / pleine",
+    "tr": "dolu"
+  },
+  {
+    "fr": "positif / positive",
+    "tr": "olumlu"
+  },
+  {
+    "fr": "possible",
+    "tr": "mümkün"
+  },
+  {
+    "fr": "prochain / prochaine",
+    "tr": "gelecek"
+  },
+  {
+    "fr": "proche",
+    "tr": "yakın"
+  },
+  {
+    "fr": "propre",
+    "tr": "temiz"
+  },
+  {
+    "fr": "précieux / précieuse",
+    "tr": "değerli"
+  },
+  {
+    "fr": "rapide",
+    "tr": "hızlı"
+  },
+  {
+    "fr": "rare",
+    "tr": "nadir"
+  },
+  {
+    "fr": "riche",
+    "tr": "zengin"
+  },
+  {
+    "fr": "rigide",
+    "tr": "sert"
+  },
+  {
+    "fr": "rouge",
+    "tr": "kırmızı"
+  },
+  {
+    "fr": "rude",
+    "tr": "sert"
+  },
+  {
+    "fr": "récent / récente",
+    "tr": "yakın zamanda"
+  },
+  {
+    "fr": "sain / saine",
+    "tr": "sağlıklı"
+  },
+  {
+    "fr": "sale",
+    "tr": "kirli"
+  },
+  {
+    "fr": "satisfait / satisfaite",
+    "tr": "memnun"
+  },
+  {
+    "fr": "simple",
+    "tr": "basit"
+  },
+  {
+    "fr": "sincère",
+    "tr": "samimi"
+  },
+  {
+    "fr": "sombre",
+    "tr": "karanlık"
+  },
+  {
+    "fr": "spécial / spéciale",
+    "tr": "özel"
+  },
+  {
+    "fr": "stressé / stressée",
+    "tr": "stresli"
+  },
+  {
+    "fr": "sucré / sucrée",
+    "tr": "tatlı"
+  },
+  {
+    "fr": "sympa",
+    "tr": "hoş"
+  },
+  {
+    "fr": "sérieux / sérieuse",
+    "tr": "ciddi"
+  },
+  {
+    "fr": "tardif / tardive",
+    "tr": "geç"
+  },
+  {
+    "fr": "timide",
+    "tr": "utangaç"
+  },
+  {
+    "fr": "tranquille",
+    "tr": "sessiz"
+  },
+  {
+    "fr": "triste",
+    "tr": "üzgün"
+  },
+  {
+    "fr": "utile",
+    "tr": "yararlı"
+  },
+  {
+    "fr": "vert / verte",
+    "tr": "yeşil"
+  },
+  {
+    "fr": "vide",
+    "tr": "boş"
+  },
+  {
+    "fr": "vieux / vieille",
+    "tr": "yaşlı"
+  },
+  {
+    "fr": "violent / violente",
+    "tr": "şiddetli"
+  },
+  {
+    "fr": "vivant / vivante",
+    "tr": "canlı"
+  },
+  {
+    "fr": "vrai / vraie",
+    "tr": "doğru"
+  },
+  {
+    "fr": "zen",
+    "tr": "rahat"
+  }
+]
