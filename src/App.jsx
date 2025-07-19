@@ -1,52 +1,35 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Quiz from './components/Quiz';
-import { generateQuestion } from './logic/generateQuestion';
+import Menu from './components/Menu';
+import Verbes from './components/Verbs';
+import Adverbes from './components/Adverbs';
+import Adjectifs from './components/Adjectives';
 
 function App() {
-  const [question, setQuestion] = useState(null);
-  const [feedback, setFeedback] = useState(null);
-  const [clicked, setClicked] = useState(null);
   const [score, setScore] = useState(0);
+  const [activeMenu, setActiveMenu] = useState('verbes');
 
-  const loadNewQuestion = () => {
-    setQuestion(generateQuestion());
-    setFeedback(null);
-    setClicked(null);
-  };
-
-  useEffect(() => {
-    loadNewQuestion();
-  }, []);
-
-  const handleAnswer = (answer) => {
-    setClicked(answer);
-    if (answer === question.correct) {
-      setScore(prev => prev + 1);  
-      setFeedback('correct');
-      setTimeout(() => loadNewQuestion(), 300);
-    } else {
-      setFeedback(answer);
-      setTimeout(() => {
-		setScore(0);     
-        setFeedback(null);
-        setClicked(null);
-      }, 300);
+  const renderQuiz = () => {
+    switch (activeMenu) {
+      case 'verbes':
+        return <Verbes score={score} setScore={setScore} />;
+      case 'adverbes':
+        return <Adverbes score={score} setScore={setScore} />;
+      case 'adjectifs':
+        return <Adjectifs score={score} setScore={setScore} />;
+      default:
+        return <div>Choisissez un menu</div>;
     }
   };
 
-
-
-  if (!question) return <div className="text-center mt-5">Chargement...</div>;
-
   return (
-    <Quiz
-      question={question}
-      onAnswer={handleAnswer}
-      clicked={clicked}
-      feedback={feedback}
-	  score={score}
-    />
+    <div className="container text-center mt-4" style={{ paddingTop: '80px' }}>
+      <Menu active={activeMenu} setActive={(menu) => {
+        setActiveMenu(menu);
+        setScore(0); // ✅ reset le score quand on change de menu
+      }} />
+      {renderQuiz()}
+    </div>
   );
 }
 

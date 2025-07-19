@@ -1,8 +1,8 @@
-import verbsData from '../verbes_fr_tr.json';
+import verbsData from '../data/verbes_fr_tr.json';
 
 const getRandomElement = (arr) => arr[Math.floor(Math.random() * arr.length)];
 
-export function generateQuestion() {
+export function generateVerbQuestion() {
   const verbs = verbsData.verbs;
   const selected = getRandomElement(verbs);
   const fromLang = Math.random() < 0.5 ? 'fr' : 'tr';
@@ -38,20 +38,31 @@ export function generateQuestion() {
       : selected[toLang].present[formKey];
 
   const otherVerbs = verbs.filter((v) => v !== selected);
+
   const wrongAnswers = [];
 
-  while (wrongAnswers.length < 4) {
+  // Generate 1 2 or 3 wrong answer of the same form (to make it harder)
+  const lookAlikeWrongAnswers = Math.floor(Math.random() * 3) + 1;
+  //console.log("lookAlikeWrongAnswers = " + lookAlikeWrongAnswers);
+  while(wrongAnswers.length < lookAlikeWrongAnswers){
     const wrongVerb = getRandomElement(otherVerbs);
-	const wrongForm = getRandomElement(formKeys);
-    const wrongAnswer =
-      wrongForm === 'infinitive'
-        ? wrongVerb[toLang][wrongForm]
-        : wrongVerb[toLang].present[wrongForm];
+    const wrongAnswer = formKey === 'infinitive' ? wrongVerb[toLang][formKey] : wrongVerb[toLang].present[formKey];
     if (!wrongAnswers.includes(wrongAnswer) && wrongAnswer !== correctAnswer) {
       wrongAnswers.push(wrongAnswer);
     }
   }
 
+  // Complete with random forms answers
+  while (wrongAnswers.length < 4) {
+    const wrongVerb = getRandomElement(otherVerbs);
+	  const wrongForm = getRandomElement(formKeys);
+    const wrongAnswer = wrongForm === 'infinitive' ? wrongVerb[toLang][wrongForm] : wrongVerb[toLang].present[wrongForm];
+    if (!wrongAnswers.includes(wrongAnswer) && wrongAnswer !== correctAnswer) {
+      wrongAnswers.push(wrongAnswer);
+    }
+  }
+  
+  // Shuffle answers
   const options = [correctAnswer, ...wrongAnswers].sort(() => 0.5 - Math.random());
 
   return {
