@@ -4,6 +4,8 @@ import Menu from './components/Menu';
 import Verbes from './components/Verbs';
 import Adverbes from './components/Adverbs';
 import Adjectifs from './components/Adjectives';
+import Footer from "./components/Footer";
+
 
 function App() {
   const [score, setScore] = useState(0);
@@ -23,13 +25,16 @@ function App() {
   };
 
   return (
-    <div className="container text-center mt-4" style={{ paddingTop: '80px' }}>
-      <Menu active={activeMenu} setActive={(menu) => {
-        setActiveMenu(menu);
-        setScore(0); // ✅ reset le score quand on change de menu
-      }} />
-      {renderQuiz()}
-    </div>
+    <>
+      <div className="container text-center mt-4" style={{ paddingTop: '80px' }}>
+        <Menu active={activeMenu} setActive={(menu) => {
+          setActiveMenu(menu);
+          setScore(0); // ✅ reset le score quand on change de menu
+        }} />
+        {renderQuiz()}
+      </div>
+      <Footer />
+    </>
   );
 }
 
