@@ -40,6 +40,14 @@ function Menu({ active, setActive }) {
                 Adjectifs
               </button>
             </li>
+            <li className="nav-item">
+              <button
+                className={`nav-link btn btn-link ${isActive('noms')}`}
+                onClick={() => setActive('noms')}
+              >
+                Noms
+              </button>
+            </li>
           </ul>
         </div>
       </div>

@@ -4,6 +4,7 @@ import Menu from './components/Menu';
 import Verbes from './components/Verbs';
 import Adverbes from './components/Adverbs';
 import Adjectifs from './components/Adjectives';
+import Noms from './components/Nouns';
 import Footer from "./components/Footer";
 
 
@@ -19,6 +20,8 @@ function App() {
         return <Adverbes score={score} setScore={setScore} />;
       case 'adjectifs':
         return <Adjectifs score={score} setScore={setScore} />;
+      case 'noms':
+        return <Noms score={score} setScore={setScore} />;
       default:
         return <div>Choisissez un menu</div>;
     }

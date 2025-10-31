@@ -24,3 +24,4 @@ Feel free to add some new translations by submitting PR on those files (please r
 - src/data/adjectifs_fr_tr.json
 - src/data/adverbes_fr_tr.json
 - src/data/verbes_fr_tr.json
+- src/data/noms_fr_tr.json
