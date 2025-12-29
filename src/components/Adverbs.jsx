@@ -17,7 +17,8 @@ function Adverbs({ score, setScore }) {
         {question.options.map((opt, i) => (
           <button
             key={i}
-            onClick={() => handleAnswer(opt)}
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={(e) => handleAnswer(opt, e)}
             className={`btn btn-lg ${
               feedback === opt ? 'btn-danger' :
               clicked === opt && feedback === 'correct' ? 'btn-success' :

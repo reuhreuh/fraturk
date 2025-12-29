@@ -15,7 +15,7 @@ export function useQuiz(generateQuestion, setScore) {
     next();
   }, []);
 
-  const handleAnswer = (answer) => {
+  const handleAnswer = (answer, event) => {
     setClicked(answer);
     if (answer === question.correct) {
       setFeedback('correct');
