@@ -1,5 +1,6 @@
 .btn:focus,
 .btn:active,
+.btn:hover,
 .btn:focus-visible {
   outline: none !important;
   box-shadow: none !important;
